@@ -1,11 +1,11 @@
 lockfileVersion: '6.0'
 
-settings:
-  autoInstallPeers: true
-  excludeLinksFromLockfile: false
-
 importers:
 
   .: {}
 
   apps/full-stack-for-frontend: {}
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
